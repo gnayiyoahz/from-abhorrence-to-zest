@@ -1,0 +1,82 @@
+uno one
+dos	two
+tres	three
+cuatro 4
+cinco 5
+seis 6
+siete 7
+ocho 8
+nueve 9
+diez 10
+once 11
+doce 12
+trece 13
+catorce 14
+quince 15
+dieciséis 16
+diecisiete 17
+dieciocho 18
+diecinueve 19
+veinte 20
+baile dance n. masculino
+cine movies n. masculino
+comida food n. femenino
+cultura culture n. femenino
+deporte sport n. masculino
+fiesta festivity/party n. femenino
+fotografía picture n. femenino
+gente people n. femenino
+historia history n. femenino
+idioma language n. femenino
+naturaleza nature n. masculino
+noticias news n. femenino
+política politics n. femenino
+tema topic n. masculino!!!
+tradición tradition n. femenino
+viaje trip n. masculino
+ciudad city n. femenino
+estado state n. masculino
+habitante inhabitant  n. masculino
+montaña montain n.  femenino
+mundo world n. masculino
+país country n. masculino
+paisaje landscape n.  masculino
+playa beach n. femenino
+población population n. femenino
+aburrido boring
+bonito beautiful
+dificíl difficult
+divertido fun
+fácil easy
+grande big
+interesante interesting
+pequeño small
+verdadero true
+apellido last_name
+compañero partner
+clase class
+cosa thing
+grupo group n. masculino
+nombre first_name n. masculino
+pareja pair n. femenino
+pregunta question n. femenino
+respuesta answer n. femenino
+tarea task/homework femenino
+teléfono phone n. masculino
+trabajo work n. masculino
+adivinar to_guess
+aprender to_guess
+buscar to_look_for
+conocer to_know/be_familiar_with
+escribir to_write
+escuchar to_listen
+estudiar to_study
+hablar to_speak
+leer to_read
+mirar to_look
+participar to_participate
+querer to_want
+saber to_know
+ser to_be
+tener to_have
+trabajar to_work
